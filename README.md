@@ -1,5 +1,4 @@
-# Indian-Startup-EDA
-An EDA on the Indian Startup Ecosystem 
+
 
 <a name="readme-top"></a>
 
@@ -7,8 +6,8 @@ An EDA on the Indian Startup Ecosystem
 <div align="center">
   <br/>
 
-  <h3><b>The Indian Startup Ecosystem Introduction</b></h3>
-The "Indian-Startup-Ecosystem - Data Analysis Project" is a comprehensive initiative that delves into the dynamic landscape of startups in India. With a focus on data analysis, this project seeks to unravel the intricacies, trends, and insights within the Indian startup ecosystem. In a rapidly evolving environment where innovation and entrepreneurship thrive, this project aims to provide valuable data-driven information for entrepreneurs, investors, and anyone interested in understanding the Indian startup scene.
+  <h3><b>The Indian Startup Ecosystem EDA</b></h3>
+
 </div>
 
 
@@ -16,16 +15,26 @@ The "Indian-Startup-Ecosystem - Data Analysis Project" is a comprehensive initia
 
 - [Indian-Startup-EDA - Data Analysis Project, Introduction](#indian-startup-ecosystem---data-analysis-project)
 - [Table of Contents](#-table-of-contents)
-- [\[The Indian start-up Ecosystem\] ](#-the-indian-start-up-ecosystem-)
+- [Introduction] ](#-Introduction)
     - [Tech Stack ](#tech-stack-)
+- [Exploration Targets](#-Questions)
   - [Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
   - [ Future Features ](#-future-features-)
   - [Contributing ](#-contributing-)
 
-#  [The Indian start-up Ecosystem] <a name="about-project"></a>
-This is a project on the Indian startup ecosystem.
+#  [Introduction] <a name="about-project"></a>
+The "Indian-Startup-Ecosystem - Data Analysis Project" is a comprehensive initiative that delves into the dynamic landscape of startups in India. With a focus on data analysis, this project seeks to unravel the intricacies, trends, and insights within the Indian startup ecosystem. In a rapidly evolving environment where innovation and entrepreneurship thrive, this project aims to provide valuable data-driven information for entrepreneurs, investors, and anyone interested in understanding the Indian startup scene.
+
+# [Exploration Targets] <a name = "questions"></a>
+
+
+1. What industry received the most funding?
+2. Which locations receive more funding?
+3. In which year is funding the highest?
+4. How many companies received funding above $100,000,000 and what industry are they in?
+5. For companies in the pre-seed stage of funding, how much is the average pre-seed amount, and what industry are they in?
 
 ### Tech Stack <a name="tech-stack"></a>
  - Python Jupyter Notebook
