@@ -6,7 +6,7 @@
 <div align="center">
   <br/>
 
-  <h3><b>The Indian Startup Ecosystem EDA</b></h3>
+  <h1><b>The Indian Startup Ecosystem EDA</b></h1>
 
 </div>
 
@@ -24,10 +24,10 @@
   - [ Future Features ](#-future-features-)
   - [Contributing ](#-contributing-)
 
-#  [Introduction] <a name="about-project"></a>
+#  Introduction <a name="about-project"></a>
 The "Indian-Startup-Ecosystem - Data Analysis Project" is a comprehensive initiative that delves into the dynamic landscape of startups in India. With a focus on data analysis, this project seeks to unravel the intricacies, trends, and insights within the Indian startup ecosystem. In a rapidly evolving environment where innovation and entrepreneurship thrive, this project aims to provide valuable data-driven information for entrepreneurs, investors, and anyone interested in understanding the Indian startup scene.
 
-# [Exploration Targets] <a name = "questions"></a>
+# Exploration Targets <a name = "questions"></a>
 
 
 1. What industry received the most funding?
