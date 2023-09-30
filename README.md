@@ -7,31 +7,31 @@ An EDA on the Indian Startup Ecosystem
 <div align="center">
   <br/>
 
-  <h3><b>The Indian Startup Ecosystem</b></h3>
-
+  <h3><b>The Indian Startup Ecosystem Introduction</b></h3>
+The "Indian-Startup-Ecosystem - Data Analysis Project" is a comprehensive initiative that delves into the dynamic landscape of startups in India. With a focus on data analysis, this project seeks to unravel the intricacies, trends, and insights within the Indian startup ecosystem. In a rapidly evolving environment where innovation and entrepreneurship thrive, this project aims to provide valuable data-driven information for entrepreneurs, investors, and anyone interested in understanding the Indian startup scene.
 </div>
 
 
-# 📗 Table of Contents
+#  Table of Contents
 
-- [Indian-Startup-EDA - Data Analysis Project](#indian-startup-ecosystem---data-analysis-project)
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 \[The Indian start-up Ecosystem\] ](#-the-indian-start-up-ecosystem-)
+- [Indian-Startup-EDA - Data Analysis Project, Introduction](#indian-startup-ecosystem---data-analysis-project)
+- [Table of Contents](#-table-of-contents)
+- [\[The Indian start-up Ecosystem\] ](#-the-indian-start-up-ecosystem-)
     - [Tech Stack ](#tech-stack-)
-  - [💻 Getting Started ](#-getting-started-)
+  - [Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
+  - [ Future Features ](#-future-features-)
+  - [Contributing ](#-contributing-)
 
-# 📖 [The Indian start-up Ecosystem] <a name="about-project"></a>
+#  [The Indian start-up Ecosystem] <a name="about-project"></a>
 This is a project on the Indian startup ecosystem.
 
 ### Tech Stack <a name="tech-stack"></a>
- - Python
+ - Python Jupyter Notebook
 
 
-## 💻 Getting Started <a name="getting-started"></a>
+##  Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
@@ -58,14 +58,14 @@ To get a local copy up and running, follow these steps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
+##  Future Features <a name="future-features"></a>
 
 - [ ] **[ Visualize graphs to answered questions]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing <a name="contributing"></a>
+##  Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
