@@ -15,7 +15,7 @@
 
 - [Indian-Startup-EDA - Data Analysis Project, Introduction](#indian-startup-ecosystem---data-analysis-project)
 - [Table of Contents](#-table-of-contents)
-- [Introduction] ](#-Introduction)
+- [Introduction](#-Introduction)
     - [Tech Stack ](#tech-stack-)
 - [Exploration Targets](#-Questions)
   - [Getting Started ](#-getting-started-)
