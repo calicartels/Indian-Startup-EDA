@@ -56,14 +56,11 @@ To get a local copy up and running, follow these steps.
 ```
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ##  Future Features <a name="future-features"></a>
 
 - [ ] **[ Visualize graphs to answered questions]**
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ##  Contributing <a name="contributing"></a>
 
